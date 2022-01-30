@@ -22,3 +22,7 @@ This is a list of link of my Appereances on other places other that my personal 
 |15-12-2020|https://youtu.be/9CMTvj9gNiw|Story of an Introvertuber|https://twitter.com/SeemaSaharan5|YouTube|
 |13-01-2022|https://www.youtube.com/watch?v=kBwMQlC4nGo&ab_channel=ChrisMiller|Tech Talks E1 - Francesco Ciulla|https://twitter.com/millertchris|Youtube (Twitter Space recap)|
 |19-12-2021|https://youtu.be/mS5UNrOGl_s|Chatting with Docker Captain, Content Creator,Developer Advocate|https://twitter.com/smartcherrystho|YouTube|
+||||||
+||||||
+||||||
+||||||
