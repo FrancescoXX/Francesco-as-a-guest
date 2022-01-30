@@ -6,4 +6,4 @@ This is a list of link of my Appereances on other places other that my personal 
 
 | Day           | Title | Who | Platform | Link |
 | ------------- | ------------- |------------- |------------- |------------ |
-|||||
+|27-07-2021|From Volleyball Teacher to Developer Advocate 🥑 -Francesco Ciulla|https://twitter.com/kaarthikhere|YouTube|https://youtu.be/MXWEzndS3hc|
