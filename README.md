@@ -15,5 +15,5 @@ This is a list of link of my Appereances on other places other that my personal 
 |04-11-2021|Docker Build: Building Microservices with JavaScript, Python and Docker|Official Docker YouTube Channel|YouTube|https://youtu.be/QFl0EFGr5e4|
 |19-02-2021|Interview with Francesco Ciulla - Get Monetised on YouTube|https://twitter.com/AnnaJMcDougall|YouTube|https://youtu.be/Bp7Dp_uru7g|
 |19-04-2021|From A Steady Job To Freelancing|https://twitter.com/themarcba|YouTube|https://youtu.be/B78yL-g8hfI|
-||||||
+|23-12-2021|Open source reviews | share your GitHub repos|https://twitter.com/eddiejaoude|YouTube|https://youtu.be/wQvlaYc5nl8|
 ||||||
