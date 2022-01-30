@@ -32,5 +32,7 @@ This is a list of link of my Appereances on other places other that my personal 
 |24-04-2021|https://youtu.be/ESXUT9dGM60|Grafana Dashboard with Node-Cron | Social Data Dashboard|https://twitter.com/natterstefan|YouTube|
 |18-12-2020|https://youtu.be/ZLM8CDzrhMQ|Hang out and chat with Francesco|https://twitter.com/natterstefan|YouTube|
 |12-01-2021|https://youtu.be/eJWNYFCrYfI|Setup a NodeJS server with Docker Deployment|https://twitter.com/natterstefan|YouTube|
+|19-01-2021|https://youtu.be/cvjhfuH4HrU|Setup Postgres and sequelize in a NodeJS application|https://twitter.com/natterstefan|YouTube|
+|09-01-2022|https://youtu.be/OHb7pngGDtk|How to build Online Presence as a Developer|https://twitter.com/amanaryan23|YouTube|
 ||||||
 
