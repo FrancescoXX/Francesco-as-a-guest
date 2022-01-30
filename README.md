@@ -26,7 +26,7 @@ This is a list of link of my Appereances on other places other that my personal 
 |08-03-2021|https://youtu.be/vqWs5-vF2To|Women: The Heart of Society|https://twitter.com/SeemaSaharan5|YouTube|
 |03-03-2021|https://youtu.be/V_wDWgpKcQc|Flutter Engage Watch Party w/ Robert Brunhage|https://twitter.com/tadaspetra|YouTube|
 |02-02-2021|https://youtu.be/DIR4Pk51w9s|100k Stream & Course Giveaways!|https://twitter.com/dennisivy11|YouTube|
-||||||
+|23-01-2021|https://youtu.be/KcGYLhYDqRY|Top Web Dev Videos You NEED to Watch! (STACKr News 2021, Issue #3)|https://twitter.com/codeSTACKr|YouTube|
 ||||||
 ||||||
 ||||||
