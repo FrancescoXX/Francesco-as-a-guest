@@ -13,3 +13,7 @@ This is a list of link of my Appereances on other places other that my personal 
 |24-10-2021|Dev Talk with Francesco Ciulla - Ten Days of Code|GNU/Linux Users' Group, NIT Durgapur|YouTube|https://youtu.be/gq0j48w2Ra8|
 |04-10-2021|(ITA) Parliamo della vita di un Twitter Influencer e Developer Advocate| https://twitter.com/dianabernabei | YouTube (Twitch recap)|https://youtu.be/bbCVz2i06S0|
 |04-11-2021|Docker Build: Building Microservices with JavaScript, Python and Docker|Official Docker YouTube Channel|YouTube|https://youtu.be/QFl0EFGr5e4|
+|19-02-2021|Interview with Francesco Ciulla | Get Monetised on YouTube|https://twitter.com/AnnaJMcDougall|YouTube|https://youtu.be/Bp7Dp_uru7g|
+|19-04-2021|From A Steady Job To Freelancing|https://twitter.com/themarcba|YouTube|https://youtu.be/B78yL-g8hfI|
+||||||
+||||||
