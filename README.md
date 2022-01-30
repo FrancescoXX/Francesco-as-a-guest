@@ -4,8 +4,8 @@ I am Francesco. You can [follow me on Twitter](https://twitter.com/FrancescoCiul
 
 This is a list of link of my Appereances on other places other that my personal ones, over the internet.
 
-| Day           | Link | Title | Host | Platform |
-| ------------- | ------------- |------------- |------------- |------------ |
+| Date | Link | Title | Host | Platform |
+| --- | ------------- |------------- |------------- |------------ |
 |27-07-2021 | https://youtu.be/MXWEzndS3hc| From Volleyball Teacher to Developer Advocate 🥑|https://twitter.com/kaarthikhere|YouTube|
 |29-11-2021| https://youtu.be/rrR-TSu-m3M| What is Developer Advocacy and How To Get Started|https://twitter.com/jamesqquick|Twitch/YouTube|
 |20-01-2022| https://youtu.be/zsA7ZR8SB4M| Get started into Web3|https://twitter.com/VittoStack|YouTube(Twitter Space)|
