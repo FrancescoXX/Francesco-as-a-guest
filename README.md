@@ -27,6 +27,6 @@ This is a list of link of my Appereances on other places other that my personal 
 |03-03-2021|https://youtu.be/V_wDWgpKcQc|Flutter Engage Watch Party w/ Robert Brunhage|https://twitter.com/tadaspetra|YouTube|
 |02-02-2021|https://youtu.be/DIR4Pk51w9s|100k Stream & Course Giveaways!|https://twitter.com/dennisivy11|YouTube|
 |23-01-2021|https://youtu.be/KcGYLhYDqRY|Top Web Dev Videos You NEED to Watch! (STACKr News 2021, Issue #3)|https://twitter.com/codeSTACKr|YouTube|
-||||||
-||||||
+|07-07-2021|https://youtu.be/1UPHrnfaEHc|Tips for Learning Online|https://www.freecodecamp.org/|YouTube|
+|04-12-2021|https://youtu.be/HZKMLzbq-LA|Content Creation for Developers|https://twitter.com/sanskar_goyal11|YouTube|
 ||||||
