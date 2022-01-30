@@ -17,4 +17,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |19-04-2021|From A Steady Job To Freelancing|https://twitter.com/themarcba|YouTube|https://youtu.be/B78yL-g8hfI|
 |23-12-2021|Open source reviews | share your GitHub repos|https://twitter.com/eddiejaoude|YouTube|https://youtu.be/wQvlaYc5nl8|
 |18-10-2021|How to build a personal brand effectively|https://twitter.com/hashnode|YouTube|https://youtu.be/IYE4u7irvhM|
-||||||
+|13-06-2021|(ITA) https://www.youtube.com/watch?v=lKBEZGzDKcA|https://twitter.com/storrisi|YouTube|https://youtu.be/lKBEZGzDKcA|
