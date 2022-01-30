@@ -12,4 +12,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |07-09-2021|Tech Unfiltered - Social Media, YouTube and Community|https://twitter.com/catalinmpit|YouTube|https://youtu.be/KeJ7MlwwVK4|
 |24-10-2021|Dev Talk with Francesco Ciulla - Ten Days of Code|GNU/Linux Users' Group, NIT Durgapur|YouTube|https://youtu.be/gq0j48w2Ra8|
 |04-10-2021|(ITA) Parliamo della vita di un Twitter Influencer e Developer Advocate| https://twitter.com/dianabernabei | YouTube (Twitch recap)|https://youtu.be/bbCVz2i06S0|
-||||||
+|04-11-2021|Docker Build: Building Microservices with JavaScript, Python and Docker|Official Docker YouTube Channel|YouTube|https://youtu.be/QFl0EFGr5e4|
