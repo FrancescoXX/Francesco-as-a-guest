@@ -20,7 +20,7 @@ This is a list of link of my Appereances on other places other that my personal 
 |13-06-2021| https://youtu.be/lKBEZGzDKcA| (ITA) storiedidevelopers |https://twitter.com/storrisi|YouTube|
 |23-12-2020|https://youtu.be/KlB30zX2rzo|Are You Introverted ?? Be An Awesome IntroverTuber|https://twitter.com/prem_ach|YouTube|
 |15-12-2020|https://youtu.be/9CMTvj9gNiw|Story of an Introvertuber|https://twitter.com/SeemaSaharan5|YouTube|
-|13-01-2022|https://www.youtube.com/watch?v=kBwMQlC4nGo&ab_channel=ChrisMiller|Tech Talks E1 - Francesco Ciulla|https://twitter.com/millertchris|Youtube (Twitter Space recap)|
+|13-01-2022|https://youtu.be/kBwMQlC4nGo|Tech Talks E1 - Francesco Ciulla|https://twitter.com/millertchris|Youtube (Twitter Space recap)|
 |19-12-2021|https://youtu.be/mS5UNrOGl_s|Chatting with Docker Captain, Content Creator,Developer Advocate|https://twitter.com/smartcherrystho|YouTube|
 |14-08-2021|https://youtu.be/lmSsiIJ|Confronting a Docker Captain|https://twitter.com/prog_couple|YouTube|
 |08-03-2021|https://youtu.be/vqWs5-vF2To|Women: The Heart of Society|https://twitter.com/SeemaSaharan5|YouTube|
