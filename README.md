@@ -35,6 +35,8 @@ This is a list of link of my Appereances on other places other that my personal 
 |19-01-2021|https://youtu.be/cvjhfuH4HrU|Setup Postgres and sequelize in a NodeJS application|https://twitter.com/natterstefan|YouTube|
 |09-01-2022|https://youtu.be/OHb7pngGDtk|How to build Online Presence as a Developer|https://twitter.com/amanaryan23|YouTube|
 |21-12-2021|https://youtu.be/eCv3Y4BXBSo|Portainer Community Event : Portainer CE 2.11|https://twitter.com/portainerio|YouTube|
+|16-12-2021|https://youtu.be/Junp_kj9LYY|Tips on Teaching and Learning - Docker Captain Panel|Docker|YouTube|
+|24-09-2021|https://youtu.be/cbpC039q03g|Docker for Different Languages|Docker Official YT Channel|YouTube|
+|24-09-2021|https://youtu.be/lMrjxvVl2ig|Getting Started with Containerization|Docker Official YT Channel|YouTube|
 ||||||
 ||||||
-
