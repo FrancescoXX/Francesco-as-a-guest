@@ -23,6 +23,6 @@ This is a list of link of my Appereances on other places other that my personal 
 |13-01-2022|https://www.youtube.com/watch?v=kBwMQlC4nGo&ab_channel=ChrisMiller|Tech Talks E1 - Francesco Ciulla|https://twitter.com/millertchris|Youtube (Twitter Space recap)|
 |19-12-2021|https://youtu.be/mS5UNrOGl_s|Chatting with Docker Captain, Content Creator,Developer Advocate|https://twitter.com/smartcherrystho|YouTube|
 |14-08-2021|https://youtu.be/lmSsiIJ|Confronting a Docker Captain|https://twitter.com/prog_couple|YouTube|
-||||||
-||||||
-||||||
+|08-03-2021|https://youtu.be/vqWs5-vF2To|Women: The Heart of Society|https://twitter.com/SeemaSaharan5|YouTube|
+|03-03-2021|https://youtu.be/V_wDWgpKcQc|Flutter Engage Watch Party w/ Robert Brunhage|https://twitter.com/tadaspetra|YouTube|
+|02-02-2021|https://youtu.be/DIR4Pk51w9s|100k Stream & Course Giveaways!|https://twitter.com/dennisivy11|YouTube|
