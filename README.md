@@ -30,3 +30,7 @@ This is a list of link of my Appereances on other places other that my personal 
 |07-07-2021|https://youtu.be/1UPHrnfaEHc|Tips for Learning Online|https://www.freecodecamp.org/|YouTube|
 |04-12-2021|https://youtu.be/HZKMLzbq-LA|Content Creation for Developers|https://twitter.com/sanskar_goyal11|YouTube|
 |24-04-2021|https://youtu.be/ESXUT9dGM60|Grafana Dashboard with Node-Cron | Social Data Dashboard|https://twitter.com/natterstefan|YouTube|
+|18-12-2020|https://youtu.be/ZLM8CDzrhMQ|Hang out and chat with Francesco|https://twitter.com/natterstefan|YouTube|
+|12-01-2021|https://youtu.be/eJWNYFCrYfI|Setup a NodeJS server with Docker Deployment|https://twitter.com/natterstefan|YouTube|
+||||||
+
