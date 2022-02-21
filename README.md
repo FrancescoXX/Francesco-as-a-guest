@@ -40,4 +40,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |24-09-2021|https://youtu.be/lMrjxvVl2ig|Getting Started with Containerization|Docker Official YT Channel|YouTube|
 |10-02-2022|https://youtu.be/iI0YT7lxRog|Docker: Let's Get Started! Austin Software Tech Talk|https://www.youtube.com/channel/UCzPIafgE4qoxAS0j1y8bxaQ|YouTube|
 |14-02-2022|https://youtu.be/TA-rj5xN5zo|How he switched from a Volleyball coach to Devops Engineer & Docker Captain|https://www.youtube.com/channel/UCMrRRZxUAXRzjai0SSoFgdw|YouTube|
-
+|21-02-2022|https://thisdevelopingstory.com/episodes/tds-93-web3|TDS 93 - Embrace Being A Beginner|https://twitter.com/bdougieYO|Podcast|
