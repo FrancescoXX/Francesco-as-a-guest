@@ -41,3 +41,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |10-02-2022|https://youtu.be/iI0YT7lxRog|Docker: Let's Get Started! Austin Software Tech Talk|https://www.youtube.com/channel/UCzPIafgE4qoxAS0j1y8bxaQ|YouTube|
 |14-02-2022|https://youtu.be/TA-rj5xN5zo|How he switched from a Volleyball coach to Devops Engineer & Docker Captain|https://www.youtube.com/channel/UCMrRRZxUAXRzjai0SSoFgdw|YouTube|
 |21-02-2022|https://thisdevelopingstory.com/episodes/tds-93-web3|TDS 93 - Embrace Being A Beginner|https://twitter.com/bdougieYO|Podcast|
+|24-02-2022|https://www.youtube.com/watch?v=-UiarME5O2E|Unboxing DevRel with @Francesco Ciulla - Episode#01|https://twitter.com/iosmayank/|Podcast|
