@@ -44,3 +44,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |24-02-2022|https://www.youtube.com/watch?v=-UiarME5O2E|Unboxing DevRel with @Francesco Ciulla - Episode#01|https://twitter.com/iosmayank/|Podcast|
 |25-04-2021|https://www.youtube.com/watch?v=WzZgWusYpGM&ab_channel=FabioBiondi|Chat with... Francesco Ciulla: aumentare la visibilità grazie ai social network|https://www.twitch.tv/fabio_biondi|Twitch/YouTube|
 |12-02-2022|https://www.youtube.com/watch?v=h8dvivPhpM8|Quiz & Q/A about Docker (& give aways) with Francesco Ciulla|https://www.twitch.tv/fabio_biondi|Twitch/YouTube|
+|08-03-2021|https://youtu.be/vqWs5-vF2To|Women: The Heart of Society|https://twitter.com/SeemaSaharan5|YouTube|
