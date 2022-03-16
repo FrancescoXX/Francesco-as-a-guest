@@ -1,6 +1,6 @@
 # Francesco-as-a-guest
 
-I am Francesco. You can [follow me on Twitter](https://twitter.com/FrancescoCiull4)
+👋 I am Francesco. You can found me  [here](http://francescociulla.com)
 
 This is a list of link of my Appereances on other places other that my personal ones, over the internet.
 
@@ -45,4 +45,3 @@ This is a list of link of my Appereances on other places other that my personal 
 |25-04-2021|https://www.youtube.com/watch?v=WzZgWusYpGM&ab_channel=FabioBiondi|Chat with... Francesco Ciulla: aumentare la visibilità grazie ai social network|https://www.twitch.tv/fabio_biondi|Twitch/YouTube|
 |12-02-2022|https://www.youtube.com/watch?v=h8dvivPhpM8|Quiz & Q/A about Docker (& give aways) with Francesco Ciulla|https://www.twitch.tv/fabio_biondi|Twitch/YouTube|
 |08-03-2021|https://youtu.be/vqWs5-vF2To|Women: The Heart of Society|https://twitter.com/SeemaSaharan5|YouTube|
-|14-03-2021|https://www.ecairn.com/blog/top-100-influencers-devrel|Top-100 DevRel|
