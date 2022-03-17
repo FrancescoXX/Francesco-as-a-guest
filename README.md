@@ -45,4 +45,5 @@ This is a list of link of my Appereances on other places other that my personal 
 |25-04-2021|https://www.youtube.com/watch?v=WzZgWusYpGM&ab_channel=FabioBiondi|Chat with... Francesco Ciulla: aumentare la visibilità grazie ai social network|https://www.twitch.tv/fabio_biondi|Twitch/YouTube|
 |12-02-2022|https://www.youtube.com/watch?v=h8dvivPhpM8|Quiz & Q/A about Docker (& give aways) with Francesco Ciulla|https://www.twitch.tv/fabio_biondi|Twitch/YouTube|
 |08-03-2021|https://youtu.be/vqWs5-vF2To|Women: The Heart of Society|https://twitter.com/SeemaSaharan5|YouTube|
-|17-03-2022|https://twitter.com/PitchGroundHQ/status/1504350227968720896|https://twitter.com/PitchGroundHQ|Twitter Space|
+|16-03-2022|https://twitter.com/PitchGroundHQ/status/1504350227968720896|https://twitter.com/PitchGroundHQ|Twitter Space|
+|17-03-2022|https://youtu.be/DI20n5xWVi4|How Content Creation Got Me Opportunities|https://www.youtube.com/channel/UCNliY-e1-7VNtuWgrSib1UQ|YouTube|
