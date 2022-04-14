@@ -48,3 +48,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |16-03-2022|https://twitter.com/PitchGroundHQ/status/1504350227968720896|How to improve communication as an introvert|https://twitter.com/PitchGroundHQ|Twitter Space|
 |17-03-2022|https://youtu.be/DI20n5xWVi4|How Content Creation Got Me Opportunities|https://www.youtube.com/channel/UCNliY-e1-7VNtuWgrSib1UQ|YouTube|
 |21-03-2022|https://youtu.be/uP4Q07ViQzk|How to get into tech and standout with Francesco Ciulla|https://twitter.com/eddiejaoude|YouTube|
+|14-04-2022|https://twitter.com/i/spaces/1zqKVBMoPNVKB?s=20|Day (04) Everything about WEB 3.O|https://twitter.com/ravikmmr|Twitter|
