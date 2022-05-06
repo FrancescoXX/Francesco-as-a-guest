@@ -50,3 +50,5 @@ This is a list of link of my Appereances on other places other that my personal 
 |21-03-2022|https://youtu.be/uP4Q07ViQzk|How to get into tech and standout with Francesco Ciulla|https://twitter.com/eddiejaoude|YouTube|
 |14-04-2022|https://twitter.com/i/spaces/1zqKVBMoPNVKB?s=20|Day (04) Everything about WEB 3.O|https://twitter.com/ravikmmr|Twitter|
 |19-04-2022|https://www.youtube.com/watch?v=fM0KsSCNjvk|Scope of DevOps|StartNow|YouTube|
+|05-05-2022|https://www.youtube.com/watch?v=1ulnU5ppXag&ab_channel=DennisIvy|cadosdev project Session 1|https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg|YouTube|
+|05-05-2022|https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg|Web RTC Full Course & More|https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA|YouTube|
