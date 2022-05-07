@@ -52,3 +52,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |19-04-2022|https://www.youtube.com/watch?v=fM0KsSCNjvk|Scope of DevOps|StartNow|YouTube|
 |05-05-2022|https://www.youtube.com/watch?v=1ulnU5ppXag&ab_channel=DennisIvy|cadosdev project Session 1|https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg|YouTube|
 |05-05-2022|https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg|Web RTC Full Course & More|https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA|YouTube|
+|07-05-2022|https://youtu.be/36ZQZu26YzY|What is Web 3.0?|https://twitter.com/Rishika5000|YouTube|
