@@ -55,4 +55,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |07-05-2022|https://youtu.be/36ZQZu26YzY|What is Web 3.0?|https://twitter.com/Rishika5000|YouTube|
 |29-06-2022|https://www.youtube.com/watch?v=DoBhLPVrJWQ|Introverted Developers on Social Media|YouTube|
 |04-07-2022|https://youtu.be/Dmcf_gNFY8w|Tech Podcast Series|YouTube|
-|05-07-2022|https://talks.codemotion.com/github-stories-how-to-be-a-devrel-in-202|Codemotion|
+|05-07-2022|https://talks.codemotion.com/github-stories-how-to-be-a-devrel-in-202|How to be a DevRel in 2022|Codemotion|
