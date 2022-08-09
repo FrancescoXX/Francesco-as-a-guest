@@ -58,6 +58,7 @@ This is a list of link of my Appereances on other places other that my personal 
 |05-07-2022|https://talks.codemotion.com/github-stories-how-to-be-a-devrel-in-202|How to be a DevRel in 2022|Codemotion|
 |29-07-2022|https://youtu.be/TrtEqMgx3xw|Francesco Ciulla x BeeLoud|YouTube|
 |30-07-2022|https://youtu.be/v1IcljmFCxY|The Bootstrapped Podcast - Episode 1 With Francesco Ciulla|YouTube|
+|01-08-2022|https://www.financialexpress.com/digital-currency/goa-to-host-agnostic-web3-0-conference-from-aug-12-14/2613762/|Financial Express Article|Financial express|
 |02-08-2022|https://podcast.20minjs.com/1952066/11060577-episode-22-web3-as-a-javascript-developer-with-francesco-ciulla|Web3 as a JavaScript Developer with Francesco Ciulla|Podcast|
 |02-08-2022|http://epaper.thegoan.net/3554216/The-Goan-Everyday/The-Goan-Everyday#page/2/3|GOAN journal|
 |06-08-2022|https://youtu.be/3YafUJUqj6s|How to Find Remote Jobs While Learning in Public With @Francesco Ciulla|Kunal Kushwaha|
