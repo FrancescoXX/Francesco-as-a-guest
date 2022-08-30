@@ -62,3 +62,5 @@ This is a list of link of my Appereances on other places other that my personal 
 |02-08-2022|https://podcast.20minjs.com/1952066/11060577-episode-22-web3-as-a-javascript-developer-with-francesco-ciulla|Web3 as a JavaScript Developer with Francesco Ciulla|Podcast|
 |02-08-2022|http://epaper.thegoan.net/3554216/The-Goan-Everyday/The-Goan-Everyday#page/2/3|GOAN journal|
 |06-08-2022|https://youtu.be/3YafUJUqj6s|How to Find Remote Jobs While Learning in Public With @Francesco Ciulla|Kunal Kushwaha|
+|29-08-2022|https://www.youtube.com/watch?v=jCzL-uoBVkQ|Livestream with Dennis Ivy||
+|3--08-2022|https://globalprimenews.com/2022/08/18/indias-first-web-3-0-conference-sparks-interest-among-tech-startups-in-india/|||
