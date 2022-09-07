@@ -65,3 +65,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |29-08-2022|https://www.youtube.com/watch?v=jCzL-uoBVkQ|Livestream with Dennis Ivy||
 |3-08-2022|https://globalprimenews.com/2022/08/18/indias-first-web-3-0-conference-sparks-interest-among-tech-startups-in-india/|||
 |31-08-2022|https://youtu.be/dItWfsngLJs|Code Battle Hackathon Winners||
+|7-09-2022|https://youtu.be/_JQPm0QwFbM|Hackathon subs|
