@@ -66,3 +66,6 @@ This is a list of link of my Appereances on other places other that my personal 
 |3-08-2022|https://globalprimenews.com/2022/08/18/indias-first-web-3-0-conference-sparks-interest-among-tech-startups-in-india/|||
 |31-08-2022|https://youtu.be/dItWfsngLJs|Code Battle Hackathon Winners||
 |7-09-2022|https://youtu.be/_JQPm0QwFbM|Hackathon subs|
+|29-09-2022|https://www.coindesk.com/learn/how-to-teach-yourself-blockchain-a-guide-for-budding-builders/|Metioned in an Coindesk articlearticle|
+|29-09-2022|https://youtu.be/X2473En3h_o|HAckathon with Dennis Ivy and Danny Thompson|
+|30-09-2022|https://youtu.be/1DCCbuyF20E|HAcktoberfest with Eddie Jaoude|
