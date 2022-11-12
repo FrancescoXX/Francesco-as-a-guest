@@ -70,3 +70,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |29-09-2022|https://youtu.be/X2473En3h_o|HAckathon with Dennis Ivy and Danny Thompson|
 |30-09-2022|https://youtu.be/1DCCbuyF20E|HAcktoberfest with Eddie Jaoude|
 |21-10-2022|https://youtu.be/dM-j1X-B8uc|Podcast|
+|21-11-2022|https://youtu.be/ufJvGAFyUHY|Web3 Podcast|
