@@ -71,3 +71,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |30-09-2022|https://youtu.be/1DCCbuyF20E|HAcktoberfest with Eddie Jaoude|
 |21-10-2022|https://youtu.be/dM-j1X-B8uc|Podcast|
 |21-11-2022|https://youtu.be/ufJvGAFyUHY|Web3 Podcast|
+||https://globalprimenews.com/2022/08/18/indias-first-web-3-0-conference-sparks-interest-among-tech-startups-in-india/|
