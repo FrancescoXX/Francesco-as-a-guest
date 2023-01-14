@@ -73,5 +73,6 @@ This is a list of link of my Appereances on other places other that my personal 
 |21-10-2022|https://youtu.be/dM-j1X-B8uc|Podcast|
 |21-11-2022|https://youtu.be/ufJvGAFyUHY|Web3 Podcast|
 |18-08-2022|https://globalprimenews.com/2022/08/18/indias-first-web-3-0-conference-sparks-interest-among-tech-startups-in-india/|
+|25-11-2022|https://www.youtube.com/watch?v=70JYP0wwIEY&ab_channel=ShiftConference|Infobip afterparty|
 |15-12-2022|https://youtu.be/yo30oF1Gflo?t=10442|Docker All hands 7|
 |9-1-2023|https://youtu.be/qTiFZgeuGno|Drilling DevRels|
