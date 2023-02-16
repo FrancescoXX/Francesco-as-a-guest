@@ -5,7 +5,7 @@
 This is a list of link of my Appereances on other places other that my personal ones, over the internet.
 
 | Date | Link | Title | Host | Platform |
-| --- | --------- |------------- |------------- |------------ |
+| --- | ------ |------------- |------------- |------------ |
 |27-07-2021 | https://youtu.be/MXWEzndS3hc| From Volleyball Teacher to Developer Advocate 🥑|https://twitter.com/kaarthikhere|YouTube|
 |29-11-2021| https://youtu.be/rrR-TSu-m3M| What is Developer Advocacy and How To Get Started|https://twitter.com/jamesqquick|Twitch/YouTube|
 |20-01-2022| https://youtu.be/zsA7ZR8SB4M| Get started into Web3|https://twitter.com/VittoStack|YouTube(Twitter Space)|
@@ -75,4 +75,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |18-08-2022|https://globalprimenews.com/2022/08/18/indias-first-web-3-0-conference-sparks-interest-among-tech-startups-in-india/|
 |25-11-2022|https://www.youtube.com/watch?v=70JYP0wwIEY&ab_channel=ShiftConference|Infobip afterparty|
 |15-12-2022|https://youtu.be/yo30oF1Gflo?t=10442|Docker All hands 7|
-|9-1-2023|https://youtu.be/qTiFZgeuGno|Drilling DevRels|
+|9-1-2023|https://youtu.be/qTiFZgeuGno|Drilling DevRels|d|sadsa|
