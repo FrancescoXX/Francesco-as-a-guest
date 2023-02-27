@@ -76,3 +76,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |25-11-2022|https://www.youtube.com/watch?v=70JYP0wwIEY&ab_channel=ShiftConference|Infobip afterparty|
 |15-12-2022|https://youtu.be/yo30oF1Gflo?t=10442|Docker All hands 7|
 |9-1-2023|https://youtu.be/qTiFZgeuGno|Drilling DevRels|d|sadsa|
+|28-2-2023|https://youtu.be/qnNpTFBzYg8|Volleyball Coach to Developer|||
