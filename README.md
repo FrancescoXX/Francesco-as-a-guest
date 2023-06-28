@@ -6,7 +6,7 @@ This is a list of link of my Appereances on other places other that my personal 
 
 | Date | Link | Title | Host | Platform |
 | --- | ------ |------------- |------------- |------------ |
-|15-12-2020| https://www.youtube.com/watch?v=9CMTvj9gNiw|https://www.youtube.com/watch?v=9CMTvj9gNiw |
+|15-12-2020| https://www.youtube.com/watch?v=9CMTvj9gNiw| Story of an Introvertuber - Francesco Ciulla |
 |20-12-2020| https://www.youtube.com/watch?v=Npuz7PPWg6k | #3 Bitfumes Dev Talk with Francesco - Javascript & DevOps Enthusiast
 |27-07-2021 | https://youtu.be/MXWEzndS3hc| From Volleyball Teacher to Developer Advocate 🥑|https://twitter.com/kaarthikhere|YouTube|
 |29-11-2021| https://youtu.be/rrR-TSu-m3M| What is Developer Advocacy and How To Get Started|https://twitter.com/jamesqquick|Twitch/YouTube|
