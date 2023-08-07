@@ -52,7 +52,7 @@ This is a list of link of my Appereances on other places other that my personal 
 |14-04-2022|https://twitter.com/i/spaces/1zqKVBMoPNVKB?s=20|Day (04) Everything about WEB 3.O|https://twitter.com/ravikmmr|Twitter|
 |19-04-2022|https://www.youtube.com/watch?v=fM0KsSCNjvk|Scope of DevOps|StartNow|YouTube|
 |05-05-2022|https://www.youtube.com/watch?v=1ulnU5ppXag&ab_channel=DennisIvy|cadosdev project Session 1|https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg|YouTube|
-|05-05-2022|https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg|Web RTC Full Course & More|https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA|YouTube|
+|05-05-2022|https://www.youtube.com/watch?v=QsH8FL0952k&t=72s|Web RTC Full Course & More|https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA|YouTube|
 |07-05-2022|https://youtu.be/36ZQZu26YzY|What is Web 3.0?|https://twitter.com/Rishika5000|YouTube|
 |29-06-2022|https://www.youtube.com/watch?v=DoBhLPVrJWQ|Introverted Developers on Social Media||YouTube|
 |04-07-2022|https://youtu.be/Dmcf_gNFY8w|Tech Podcast Series||YouTube|
