@@ -81,3 +81,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |28-2-2023|https://youtu.be/qnNpTFBzYg8|Volleyball Coach to Developer|||
 |28-6-2023|https://www.youtube.com/watch?v=ly2iPB8Z6rY&t=267s|Content Creation As A CAREER|
 |26-09-2023|https://www.youtube.com/watch?v=CYwh3pfMXEQ&ab_channel=StefanoLePera||
+|09-09-2023 | https://open.spotify.com/episode/6zSfNs942bLiui3fB0VGXV?si=4J31w92pQAOvL60Ws8wJ3g | Coffee With The UI Girl Podcast | https://twitter.com/anishaswain |
