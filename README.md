@@ -82,3 +82,5 @@ This is a list of link of my Appereances on other places other that my personal 
 |28-6-2023|https://www.youtube.com/watch?v=ly2iPB8Z6rY&t=267s|Content Creation As A CAREER|
 |26-09-2023|https://www.youtube.com/watch?v=CYwh3pfMXEQ&ab_channel=StefanoLePera||
 |09-09-2023 | https://open.spotify.com/episode/6zSfNs942bLiui3fB0VGXV?si=4J31w92pQAOvL60Ws8wJ3g | Coffee With The UI Girl Podcast | https://twitter.com/anishaswain |
+|19-10-2023 | https://www.youtube.com/watch?v=g1UPGk6lTK8 |  Navigating Docker With Captains Ep. 01 Featuring Francesco Ciulla
+|20-12-2023 | https://www.instagram.com/reel/C1B1sFNxkmr/?igsh=MWw2NW14ZHFyaGVlaQ%3D%3D | Mentioned on Ezsnippet Instagram account
