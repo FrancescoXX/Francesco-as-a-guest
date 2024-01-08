@@ -86,3 +86,4 @@ This is a list of link of my Appereances on other places other that my personal 
 |05-10-2023 | https://www.youtube.com/watch?v=NCwzV3J8Op0 | DockerCon 2023 Announcements Live Show (Ep 237) | Bret Fisher
 |20-12-2023 | https://www.instagram.com/reel/C1B1sFNxkmr/?igsh=MWw2NW14ZHFyaGVlaQ%3D%3D | Mentioned on Ezsnippet Instagram account
 |29-12-2023| https://www.youtube.com/watch?v=aoI8tlXN9-s| Code Europe talk
+https://www.youtube.com/watch?v=iRmtE4tAUtE
