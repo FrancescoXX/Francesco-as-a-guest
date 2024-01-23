@@ -87,3 +87,5 @@ This is a list of link of my Appereances on other places other that my personal 
 |20-12-2023 | https://www.instagram.com/reel/C1B1sFNxkmr/?igsh=MWw2NW14ZHFyaGVlaQ%3D%3D | Mentioned on Ezsnippet Instagram account
 |29-12-2023| https://www.youtube.com/watch?v=aoI8tlXN9-s| Code Europe talk
 https://www.youtube.com/watch?v=iRmtE4tAUtE
+https://www.youtube.com/watch?v=q0Pv5_nNzPQ&t=5s&ab_channel=Livecycle
+https://youtu.be/aoI8tlXN9-s?si=tQP1gT7qqEmk2w8b
