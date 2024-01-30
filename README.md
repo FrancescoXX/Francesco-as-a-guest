@@ -89,3 +89,4 @@ This is a list of link of my Appereances on other places other that my personal 
 https://www.youtube.com/watch?v=iRmtE4tAUtE
 https://www.youtube.com/watch?v=q0Pv5_nNzPQ&t=5s&ab_channel=Livecycle
 https://youtu.be/aoI8tlXN9-s?si=tQP1gT7qqEmk2w8b
+https://twitter.com/get_livecycle/status/1752269760774254984
