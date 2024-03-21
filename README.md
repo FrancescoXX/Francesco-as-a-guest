@@ -91,3 +91,4 @@ https://www.youtube.com/watch?v=q0Pv5_nNzPQ&t=5s&ab_channel=Livecycle
 https://youtu.be/aoI8tlXN9-s?si=tQP1gT7qqEmk2w8b
 https://twitter.com/get_livecycle/status/1752269760774254984
 https://www.htmlallthethings.com/podcasts/francescos-unique-developer-journey
+https://www.youtube.com/watch?v=_MuMCZUYYc4&ab_channel=Livello2
