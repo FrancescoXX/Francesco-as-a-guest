@@ -99,3 +99,5 @@ https://www.youtube.com/watch?v=7erWco3K2DI&ab_channel=TejasKumar
 https://www.youtube.com/watch?v=XNj3xFyK9Vg&ab_channel=PradumnaSaraf
 https://www.instagram.com/reel/C60NpjIuyum/
 https://www.youtube.com/watch?v=LSUa8-1ALgs
+https://open.spotify.com/episode/4HVhMu9GZ7ayD8CsYfsUl6?go=1&sp_cid=cb43ec96f8cd7ae9294f04b5f9e8f049&utm_source=embed_player_p&utm_medium=desktop
+https://www.youtube.com/live/Ci_-FxzVH0w?si=YheXBfH3zrwlAzt6
