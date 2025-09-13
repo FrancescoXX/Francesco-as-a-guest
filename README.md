@@ -118,3 +118,4 @@ https://www.youtube.com/live/I8acOcHuE_I?si=JXw-FtYO6RogNTH1
 https://www.youtube.com/live/yR47mknQBi4?si=9wwR6_J7NJaED-oW&t=6177
 https://x.com/WeAreDevs/status/1965314505799315800
 https://youtu.be/bYnuB1Nlwq0?si=8iCujySRxaA-vq7D
+https://www.youtube.com/watch?v=CDS2wN43qj0
