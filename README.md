@@ -120,3 +120,4 @@ https://x.com/WeAreDevs/status/1965314505799315800
 https://youtu.be/bYnuB1Nlwq0?si=8iCujySRxaA-vq7D
 https://www.youtube.com/watch?v=CDS2wN43qj0
 https://www.youtube.com/live/3GPOi7Tgw6k?si=p3sSGsiIZzK1ZP9J
+https://www.youtube.com/live/3GPOi7Tgw6k?si=i0w96ZAfG4X-Jx32
