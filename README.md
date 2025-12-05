@@ -104,10 +104,18 @@ This is a list of link of my Appereances on other places other that my personal 
 |02-12-2025|https://www.youtube.com/live/Q1JyVbDoQSM?si=oI8UAFKuUBHmuzwR
 
 
-
-
-
-|05-07-2022|https://talks.codemotion.com/github-stories-how-to-be-a-devrel-in-202|How to be a DevRel in 2022|Codemotion|
+NEW after 4/12
+https://www.youtube.com/watch?v=0q8dJqErMX4
+https://www.youtube.com/watch?v=CD3aKV7n2KM
+https://www.youtube.com/watch?v=kgK2qzMy7xM&t=208s
+https://www.youtube.com/shorts/_3qMoR3PBT8
+https://www.youtube.com/watch?v=mwb97U2q0r4
+https://www.youtube.com/watch?v=KY1cKGzwAUg
+https://www.youtube.com/watch?v=PodGKBbNle4&t=7s
+https://www.youtube.com/live/87EizBn_lsc?si=Wy5WO8g-VtxirViE&t=7028
+https://open.spotify.com/episode/4HVhMu9GZ7ayD8CsYfsUl6?si=fBGObLpYTt60-sbpF_J0cg&nd=1&dlsi=d1a2436bbd6a49bf
+check |05-07-2022|https://talks.codemotion.com/github-stories-how-to-be-a-devrel-in-202|How to be a DevRel in 2022|Codemotion|
+check https://open.spotify.com/search/francesco%20ciulla/podcastAndEpisodes
 
 No youtube
 |21-02-2022|https://thisdevelopingstory.com/episodes/tds-93-web3|TDS 93 - Embrace Being A Beginner|https://twitter.com/bdougieYO|Podcast|
