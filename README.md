@@ -117,6 +117,7 @@ https://open.spotify.com/episode/4HVhMu9GZ7ayD8CsYfsUl6?si=fBGObLpYTt60-sbpF_J0c
 check |05-07-2022|https://talks.codemotion.com/github-stories-how-to-be-a-devrel-in-202|How to be a DevRel in 2022|Codemotion|
 check https://open.spotify.com/search/francesco%20ciulla/podcastAndEpisodes
 https://youtu.be/TLiMhc34rfk?si=b9_CzTDKsUl3I0H3
+https://youtu.be/0q8dJqErMX4?si=krlGebhnPqy_MGuW
 
 No youtube
 |21-02-2022|https://thisdevelopingstory.com/episodes/tds-93-web3|TDS 93 - Embrace Being A Beginner|https://twitter.com/bdougieYO|Podcast|
