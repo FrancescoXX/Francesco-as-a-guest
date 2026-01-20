@@ -118,6 +118,8 @@ check |05-07-2022|https://talks.codemotion.com/github-stories-how-to-be-a-devrel
 check https://open.spotify.com/search/francesco%20ciulla/podcastAndEpisodes
 https://youtu.be/TLiMhc34rfk?si=b9_CzTDKsUl3I0H3
 https://youtu.be/0q8dJqErMX4?si=krlGebhnPqy_MGuW
+https://www.youtube.com/live/YrLewcJp0pc?si=4tCBvps7ndh5FCnc
+https://www.youtube.com/watch?v=0vcdyv_NBqc
 
 No youtube
 |21-02-2022|https://thisdevelopingstory.com/episodes/tds-93-web3|TDS 93 - Embrace Being A Beginner|https://twitter.com/bdougieYO|Podcast|
