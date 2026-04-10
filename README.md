@@ -139,3 +139,9 @@ No youtube
 ||https://www.instagram.com/reel/C60NpjIuyum/
 ||https://open.spotify.com/episode/4HVhMu9GZ7ayD8CsYfsUl6?go=1&sp_cid=cb43ec96f8cd7ae9294f04b5f9e8f049&utm_source=embed_player_p&utm_medium=desktop
 ||https://x.com/WeAreDevs/status/1965314505799315800
+
+
+
+
+
+https://www.youtube.com/watch?v=5JIc5av34hI&list=LL
